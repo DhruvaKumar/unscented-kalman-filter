@@ -1,6 +1,6 @@
 # Unscented Kalman Filter
 
-This project was done as a part of (Udacity's SDN)[https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project]. The goal is to use a UKF to fuse noisy lidar and radar data in order to estimate and track the state of a vehicle. [Udacity's simulator](https://github.com/udacity/self-driving-car-sim/releases) provides the noisy data.
+This project was done as a part of [Udacity's SDN](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project). The goal is to use a UKF to fuse noisy lidar and radar data in order to estimate and track the state of a vehicle. [Udacity's simulator](https://github.com/udacity/self-driving-car-sim/releases) provides the noisy data.
 
 ## Dependencies
 
@@ -37,6 +37,6 @@ NIS Laser
 
 ![alt text](results/nislaser.png)
 
-NIS Radr
+NIS Radar
 
 ![alt text](results/nisradar.png)
