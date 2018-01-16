@@ -1,0 +1,9 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+
+# custom
+todo
+.ipynb_checkpoints/
